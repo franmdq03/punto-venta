@@ -64,7 +64,7 @@ punto-venta/
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/alexroel/punto-venta.git
+git clone https://github.com/franmdq03/punto-venta.git
 cd punto-venta
 ```
 
